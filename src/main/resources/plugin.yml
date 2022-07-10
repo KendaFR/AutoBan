@@ -1,0 +1,8 @@
+name: AutoBan
+version: '${project.version}'
+main: fr.kenda.autoban.AutoBan
+authors: [ Kenda ]
+description: Plugin d'autoBan
+commands:
+  autoban:
+    description: permet de bannir auto la personne

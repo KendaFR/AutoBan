@@ -1,0 +1,12 @@
+##########################################
+#          AUTOBAN BY KENDA              #
+# github: https://github.com/KendaFR     #
+# youtube: https://youtube.com/c/kendamc #
+##########################################
+
+#Personne autorisé à effectué la commande
+player_allowed:
+  - "Kenda_"
+
+#Autorise la console à faire la commande
+console_allowed: true
