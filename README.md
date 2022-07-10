@@ -6,6 +6,13 @@ Ce plugin est utilisé principalement pour "blacklist" des joueurs de son serveu
 
 
 
+## Commande
+
+Il existe une seul commande
+```http
+  /autoban <pseudo>
+```
+
 ## Utilisation
 
 Il suffit de glisser le plugin dans le dossier plugins de votre serveur et de relancer ce dernier.
@@ -39,13 +46,6 @@ Ce fichier de configuration va lister les joueurs blacklist du serveur en stocka
 #### Attention ! Il faut bien respecter la hierarchie de la section, au risque de faire planté la configuration.
 
 
-
-## Commande
-
-Il existe une seul commande
-```http
-  /autoban <pseudo>
-```
 
 ## Contact
 
